@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/StyleSavvy/static/css/main.0f584d09.css",
+    "main.js": "/StyleSavvy/static/js/main.27d25bbe.js",
+    "static/js/787.6606bfd5.chunk.js": "/StyleSavvy/static/js/787.6606bfd5.chunk.js",
+    "index.html": "/StyleSavvy/index.html",
+    "main.0f584d09.css.map": "/StyleSavvy/static/css/main.0f584d09.css.map",
+    "main.27d25bbe.js.map": "/StyleSavvy/static/js/main.27d25bbe.js.map",
+    "787.6606bfd5.chunk.js.map": "/StyleSavvy/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f584d09.css",
+    "static/js/main.27d25bbe.js"
+  ]
+}
